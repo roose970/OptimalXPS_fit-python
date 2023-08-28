@@ -2,6 +2,8 @@
 
 This work consist in a jupyter notebook to perform analysis of XPS spectra. Any python distributions, packages used in this notebook and jupyter notebook are required and should be install prior to usage of this notebook.
 
+Project can be found on : https://github.com/roose970/OptimalXPS_fit-python
+
 ## Installation
 
 - Using git:
